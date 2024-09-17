@@ -26,7 +26,7 @@ A detailed log of the incident is created for further analysis.
 This has significantly improved our network security posture. Additionally, the logs generated have been invaluable for conducting post-incident analysis and improving our security measures.
 
 ![Branching](siem BIG.JPG)
-
+---
 
 ## Cybersecurity Network Architecture
 
