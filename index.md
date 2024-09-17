@@ -2,11 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
+# SIEM Alert Example: Unauthorized Access Attempt
 
 `Introduction`: In this example, I created a SIEM alert in Microsoft Azure to detect unauthorized access attempts to our network. 
 This alert helps in identifying potential security breaches and taking immediate action to mitigate risks.
@@ -29,9 +25,7 @@ A detailed log of the incident is created for further analysis.
 `Outcome`: Since implementing this alert, we have successfully detected and blocked several unauthorized access attempts. 
 This has significantly improved our network security posture. Additionally, the logs generated have been invaluable for conducting post-incident analysis and improving our security measures.
 
-`: (Include the screenshot of the SIEM alert configuration here)
-
-# SIEM Alert Example: Unauthorized Access Attempt
+![Branching](siem BIG.JPG)
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
