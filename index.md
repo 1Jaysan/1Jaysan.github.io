@@ -8,7 +8,28 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+`Introduction`: In this example, I created a SIEM alert in Microsoft Azure to detect unauthorized access attempts to our network. 
+This alert helps in identifying potential security breaches and taking immediate action to mitigate risks.
+
+`Objective`: The primary objective of this alert is to monitor and detect any unauthorized access attempts to our network resources. This is crucial for maintaining the security and integrity of our systems.
+
+`Configuration`: I configured the SIEM alert using Microsoft Azure Sentinel. The alert is set up to monitor login attempts across all network endpoints.
+
+`Trigger Conditions`: The alert is triggered under the following conditions:
+
+Multiple failed login attempts from a single IP address within a short time frame.
+Login attempts from blacklisted IP addresses.
+Login attempts outside of normal business hours.
+Response: When the alert is triggered, the following actions are taken:
+
+An automated email notification is sent to the security team.
+The suspicious IP address is temporarily blocked.
+A detailed log of the incident is created for further analysis.
+
+`Outcome`: Since implementing this alert, we have successfully detected and blocked several unauthorized access attempts. 
+This has significantly improved our network security posture. Additionally, the logs generated have been invaluable for conducting post-incident analysis and improving our security measures.
+
+`: (Include the screenshot of the SIEM alert configuration here)
 
 # SIEM Alert Example: Unauthorized Access Attempt
 
