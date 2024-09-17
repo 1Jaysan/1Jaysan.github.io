@@ -27,6 +27,7 @@ This has significantly improved our network security posture. Additionally, the 
 
 ![Branching](siem BIG.JPG)
 
+
 ## Cybersecurity Network Architecture
 
 ![Branching](My Dfir Dia.jpg)
