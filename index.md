@@ -70,7 +70,7 @@ Agent Management: The Fleet server ensures that all managed agents are properly 
 
 `Initial Implementation and Vulnerabilities`: My initial implementation of the JavaScript logic used eval() for evaluating mathematical expressions. While functional, I recognized the inherent security risks associated with eval() when handling arbitrary user input, as it can potentially lead to code injection vulnerabilities. This realization highlighted the importance of secure coding practices from the outset.
 
-![Branching](1st proj.jpg)
+![Branching](1st proj.JPG)
 
 `Mitigating Code Injection`: To address the security concerns with eval(), I initially attempted to implement my own expression parsing and evaluation logic. This proved to be complex and prone to errors, particularly when handling operator precedence and various edge cases.
 
@@ -80,7 +80,7 @@ Agent Management: The Fleet server ensures that all managed agents are properly 
 
 Final Product and Security Considerations:
 
-![Branching](project 2.jpg)
+![Branching](project 2.JPG)
 
 The final product is a fully functional web-based calculator with the following `key features`:
 
